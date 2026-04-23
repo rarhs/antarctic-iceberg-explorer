@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Antarctic large icebergs</name>
+    <description>Current positions of Antarctic large icebergs (BYU SCP / ASCAT &amp; OSCAT-2).</description>
+    <Placemark>
+      <name>A23A</name>
+      <description><![CDATA[Observation date: 2024-01-01<br/>Latitude (DMS): 75 45'S<br/>Longitude (DMS): 40 0'W<br/>Latitude (decimal): -75.7500<br/>Longitude (decimal): -40.0000]]></description>
+      <Point><coordinates>-40.0000,-75.7500,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>A68A</name>
+      <description><![CDATA[Observation date: 2024-01-01<br/>Latitude (DMS): 63 30'S<br/>Longitude (DMS): 49 0'W<br/>Latitude (decimal): -63.5000<br/>Longitude (decimal): -49.0000]]></description>
+      <Point><coordinates>-49.0000,-63.5000,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>B22A</name>
+      <description><![CDATA[Observation date: 2024-01-01<br/>Latitude (DMS): 74 18'S<br/>Longitude (DMS): 104 30'W<br/>Latitude (decimal): -74.3000<br/>Longitude (decimal): -104.5000]]></description>
+      <Point><coordinates>-104.5000,-74.3000,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>C19C</name>
+      <description><![CDATA[Observation date: 2024-01-01<br/>Latitude (DMS): 67 42'S<br/>Longitude (DMS): 80 0'E<br/>Latitude (decimal): -67.7000<br/>Longitude (decimal): 80.0000]]></description>
+      <Point><coordinates>80.0000,-67.7000,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>D28</name>
+      <description><![CDATA[Observation date: 2024-01-01<br/>Latitude (DMS): 65 0'S<br/>Longitude (DMS): 85 0'E<br/>Latitude (decimal): -65.0000<br/>Longitude (decimal): 85.0000]]></description>
+      <Point><coordinates>85.0000,-65.0000,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>
